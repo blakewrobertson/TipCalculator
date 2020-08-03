@@ -1,27 +1,27 @@
-# Pre-work - *Name of App Here*
+# Pre-work - Tipster
 
-**Name of your app** is a tip calculator application for iOS.
+**Tipster** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Blake Robertson**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [Y] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [ ] Settings page to change the default tip percentage.
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [N] Settings page to change the default tip percentage.
+* [N] UI animations
+* [N] Remembering the bill amount across app restarts (if <10mins)
+* [N] Using locale-specific currency and currency thousands separators.
+* [N] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [N] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough 
 
@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had trouble figuring out how to correctly link actions to the code.
 
 ## License
 
